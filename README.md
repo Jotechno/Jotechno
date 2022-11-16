@@ -1,16 +1,14 @@
 ### Hello everyone!
 
-<!--
-**Jotechno/Jotechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working by my own, making my own videogame 🎮
+- 🌱 I’m currently learning Java/HTML/CSS at my institute
+- 👯 I’m looking to collaborate on any simple project, to improve my basic skills
+- 🤔 I'm looking for help with: Any help in any language is helpful!!!
+- 💬 Ask me about anything you want to know about me! :)
+- 📫 How to reach me: jstamayotoro@hotmail.com or mrxch1k1x@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I really love videogames 
+
+Feel free to ask anything else about me!!
